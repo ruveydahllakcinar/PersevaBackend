@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kno726pDIGsu8o9EY0pvhbUMxMVBvaQhBOsjVsPy1aY=",
+  "Source": "PersevaBackend.WebApi",
+  "BasePath": "_content/PersevaBackend.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

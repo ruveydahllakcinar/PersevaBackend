@@ -1,0 +1,17 @@
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.AssemblyInfo.cs
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\bin\Debug\net7.0\PersevaBackend.DataAccessLayer.deps.json
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\bin\Debug\net7.0\PersevaBackend.DataAccessLayer.dll
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\bin\Debug\net7.0\PersevaBackend.DataAccessLayer.pdb
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\bin\Debug\net7.0\PersevaBackend.EntityLayer.dll
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\bin\Debug\net7.0\PersevaBackend.EntityLayer.pdb
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.csproj.CopyComplete
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.dll
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\refint\PersevaBackend.DataAccessLayer.dll
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.pdb
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\ref\PersevaBackend.DataAccessLayer.dll
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\bin\Debug\net7.0\PersevaBackend.DataAccessLayer.runtimeconfig.json
+C:\Users\rhakc\Github\PersevaBackend\PersevaBackend\ApiConsume\PersevaBackend.DataAccessLayer\obj\Debug\net7.0\PersevaBackend.DataAccessLayer.genruntimeconfig.cache
